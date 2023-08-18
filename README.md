@@ -43,10 +43,11 @@ That's it! You're ready to start using app to efficiently gather data from vario
 
 Before you begin using app, you'll need to set up your account and provide the necessary API keys. Here's why these API keys are important and how to obtain them:
 
-**Scrape-It.Cloud API Key:**
+### Scrape-It.Cloud API Key
 The Scrape-It.Cloud API key allows YourApp Name to connect with the Scrape-It.Cloud service, which enables efficient web scraping. This key is essential for retrieving data from various online sources, such as search engines, maps, and websites.
 
 **Obtaining Scrape-It.Cloud API Key:**
+
 To get your Scrape-It.Cloud API key:
 1. Visit the Scrape-It.Cloud website at [scrape-it.cloud](https://scrape-it.cloud).
 2. Sign up for an account or log in if you already have one.
@@ -54,10 +55,11 @@ To get your Scrape-It.Cloud API key:
 ![API key](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/1.jpg)
 4. Copy the API key and paste it into the "Scrape-It.Cloud API" field in the Settings of app.
 
-**ChatGPT API Key:**
+### ChatGPT API Key:
 The ChatGPT API key enables YourApp Name to interact with the ChatGPT service, which adds natural language processing capabilities to the application. This key is necessary for generating human-like responses and engaging conversations.
 
 **Obtaining ChatGPT API Key:**
+
 To acquire your ChatGPT API key:
 1. Visit the OpenAI website at [openai.com](https://www.openai.com/).
 2. Sign up for an account or log in if you're already registered.
