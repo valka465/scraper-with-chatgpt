@@ -228,10 +228,39 @@ The "Shopify" tab simplifies the process of data collection from Shopify website
 
 ### Zillow
 
-1. Access the "Zillow" tab.
-2. Enter a link.
-3. Click "Scrape" to gather data.
-4. Save results in JSON or Excel format.
+The "Zillow" tab in YourApp Name provides powerful tools to extract property and listing data from Zillow. This tab is split into two sections: Zillow Property and Zillow Listing. Let's explore how each section works:
+
+![Zillow Tab](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/8.jpg)
+
+**Zillow Property:**
+
+**Link to Property:**
+- In the "Link to Property" field, enter the URL of the Zillow property you want to scrape data from.
+- This URL should lead to the property page on Zillow.
+
+**Get Button:**
+- After entering the property URL, click the "Get" button to initiate the scraping process.
+- YourApp Name will extract relevant data from the provided Zillow property page.
+
+**Zillow Listing:**
+
+**Keyword:**
+- Enter a keyword related to the listings you're interested in.
+- This keyword helps refine the search for specific types of listings.
+
+**Type and HomeTypes:**
+- Choose the "Type" of listings you want to scrape (e.g., "For Sale," "For Rent," "Sold").
+- Select one or more "HomeTypes" that match the types of properties you're looking for (e.g., "SingleFamily," "Condo," etc.).
+
+**Excel and JSON Checkboxes:**
+- Check the desired format(s) (Excel and/or JSON) to save the scraped listing data.
+- Choose one or both options based on your data storage preferences.
+
+**Get Listing Data Button:**
+- Click the "Get Listing Data" button to start scraping Zillow listings with the specified criteria.
+- YourApp Name will gather and organize listing data according to your chosen format(s).
+
+Utilizing the Zillow section, you can efficiently gather property information and listing details for your analysis. Make sure to select the appropriate options and enter accurate details to retrieve the data you need.
 
 ### ANY
 
