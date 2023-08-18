@@ -103,11 +103,43 @@ Configuring your API keys correctly on the "Settings" tab is crucial for the smo
 
 ### SERP
 
-1. Open the "SERP" tab from the navigation menu.
-2. Enter a keyword, select domain, language, and country.
-3. Choose data sources (Images, News, Locals, Shopping, Videos).
-4. Click "Scrape" to gather data.
-5. Save results in JSON or Excel format.
+**Usage: SERP**
+
+The "SERP" tab in App empowers you to gather valuable data from Google's Search Engine Results Pages. This tab provides you with options to customize your search and collect information from different sources. Here's an overview of the features and buttons on the "SERP" tab:
+
+![SERP Tab](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/4.jpg)
+
+**Keyword:**
+- Enter the keyword you want to search for on Google SERP.
+- This keyword will be used as the basis for data scraping.
+
+**Google Domain:**
+- Choose the Google domain you wish to perform the search on (e.g., google.com, google.co.uk).
+- This selection determines the localized search results.
+
+**Language:**
+- Select the language in which you want to receive search results.
+- Choosing the appropriate language ensures relevant data extraction.
+
+**Country:**
+- Specify the country you are interested in for location-specific search results.
+- This option is useful when collecting region-specific data.
+
+**Data Sources:**
+- Check the checkboxes next to data sources (Images, News, Locals, Shopping, Videos) you want to include in your search.
+- Selecting these sources tailors your search to your specific data needs.
+
+**Scrape:**
+- Click the "Scrape" button to initiate the scraping process.
+- App will retrieve and compile data based on your specified criteria.
+
+**Run:**
+- After data scraping is complete, choose to save the collected information in JSON or Excel format.
+- Select the appropriate format based on your data analysis requirements and Run the app.
+
+The "SERP" tab provides a comprehensive solution for extracting data from Google SERP across various sources. Customize your search parameters, initiate the scraping process, and save the results for further analysis or reference.
+
+*Note: When scrape Google Images, you will get them in folder.*
 
 ### Maps
 
