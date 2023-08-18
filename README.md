@@ -143,10 +143,27 @@ The "SERP" tab provides a comprehensive solution for extracting data from Google
 
 ### Maps
 
-1. Navigate to the "Maps" tab on the main menu.
-2. Enter a keyword, specify the country.
-3. Click "Scrape" to gather data.
-4. Save results in JSON or Excel format.
+The "Maps" tab in YourApp Name empowers you to gather data from Google Maps based on specific keywords and location preferences. Here's how to navigate this tab and utilize its features:
+
+![Maps Tab](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/5.jpg)
+
+**Keyword Entry:**
+- In the "Keyword" field, input the keyword or topic related to the location you wish to scrape data for.
+- This keyword helps narrow down the search and ensures relevant results.
+
+**Country Selection:**
+- Choose the desired country from the available options to focus the data scraping on that particular region.
+- This feature ensures that you gather location-specific information from Google Maps.
+
+**Data Output Format:**
+- You can choose to save the collected data in either JSON or Excel format.
+
+**Run:**
+- Click the "Run" button to initiate the data scraping process based on the provided keyword and country.
+- YourApp Name will fetch and organize relevant data from Google Maps.
+
+**Example Use Case:**
+Suppose you're interested in gathering information about local businesses related to "restaurants" in the country "United States." By entering the keyword "restaurants" and selecting the country, you can click the "Scrape" button to obtain a comprehensive dataset of restaurant-related data from Google Maps.
 
 ### Chat GPT with Scraper
 
