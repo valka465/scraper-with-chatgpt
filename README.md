@@ -140,7 +140,7 @@ The "SERP" tab provides a comprehensive solution for extracting data from Google
 
 ### Maps
 
-The "Maps" tab in YourApp Name empowers you to gather data from Google Maps based on specific keywords and location preferences. Here's how to navigate this tab and utilize its features:
+The "Maps" tab in App empowers you to gather data from Google Maps based on specific keywords and location preferences. Here's how to navigate this tab and utilize its features:
 
 ![Maps Tab](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/5.jpg)
 
@@ -157,14 +157,14 @@ The "Maps" tab in YourApp Name empowers you to gather data from Google Maps base
 
 **Run:**
 - Click the "Run" button to initiate the data scraping process based on the provided keyword and country.
-- YourApp Name will fetch and organize relevant data from Google Maps.
+- App will fetch and organize relevant data from Google Maps.
 
 **Example Use Case:**
 Suppose you're interested in gathering information about local businesses related to "restaurants" in the country "United States." By entering the keyword "restaurants" and selecting the country, you can click the "Scrape" button to obtain a comprehensive dataset of restaurant-related data from Google Maps.
 
 ### Chat GPT with Scraper
 
-The "Chat GPT with Scraper" tab within YourApp Name seamlessly integrates data scraping with natural language processing through ChatGPT. Here's a breakdown of how to harness this powerful feature:
+The "Chat GPT with Scraper" tab within App seamlessly integrates data scraping with natural language processing through ChatGPT. Here's a breakdown of how to harness this powerful feature:
 
 ![Chat GPT with Scraper Tab](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/6.jpg)
 
@@ -189,7 +189,7 @@ Or imagine you've scraped a news article from a website, and you're interested i
 
 ### Shopify
 
-Explore the capabilities of the "Shopify" tab in YourApp Name to effortlessly scrape product and collection data from Shopify websites. 
+Explore the capabilities of the "Shopify" tab in App to effortlessly scrape product and collection data from Shopify websites. 
 ![Shopify Tab](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/7.jpg)
 
 **Link:**
@@ -218,17 +218,17 @@ Explore the capabilities of the "Shopify" tab in YourApp Name to effortlessly sc
 
 **Get Collection Button:**
 - Click the "Get Collection" button to initiate the scraping process for collections based on your input.
-- YourApp Name will retrieve collection data according to the specified parameters.
+- App will retrieve collection data according to the specified parameters.
 
 **Get Products Button:**
 - Click the "Get Products" button to begin scraping product data using the provided details.
-- YourApp Name will gather product information as per the specified parameters.
+- App will gather product information as per the specified parameters.
 
-The "Shopify" tab simplifies the process of data collection from Shopify websites. Whether you're conducting market research, monitoring trends, or analyzing product details, YourApp Name streamlines the data scraping process for informed decision-making.
+The "Shopify" tab simplifies the process of data collection from Shopify websites. Whether you're conducting market research, monitoring trends, or analyzing product details, App streamlines the data scraping process for informed decision-making.
 
 ### Zillow
 
-The "Zillow" tab in YourApp Name provides powerful tools to extract property and listing data from Zillow. This tab is split into two sections: Zillow Property and Zillow Listing. Let's explore how each section works:
+The "Zillow" tab in App provides powerful tools to extract property and listing data from Zillow. This tab is split into two sections: Zillow Property and Zillow Listing. Let's explore how each section works:
 
 ![Zillow Tab](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/8.jpg)
 
@@ -240,7 +240,7 @@ The "Zillow" tab in YourApp Name provides powerful tools to extract property and
 
 **Get Button:**
 - After entering the property URL, click the "Get" button to initiate the scraping process.
-- YourApp Name will extract relevant data from the provided Zillow property page.
+- App will extract relevant data from the provided Zillow property page.
 
 **Zillow Listing:**
 
@@ -258,14 +258,38 @@ The "Zillow" tab in YourApp Name provides powerful tools to extract property and
 
 **Get Listing Data Button:**
 - Click the "Get Listing Data" button to start scraping Zillow listings with the specified criteria.
-- YourApp Name will gather and organize listing data according to your chosen format(s).
+- App will gather and organize listing data according to your chosen format(s).
 
 Utilizing the Zillow section, you can efficiently gather property information and listing details for your analysis. Make sure to select the appropriate options and enter accurate details to retrieve the data you need.
 
 ### ANY
 
-1. Navigate to the "ANY" tab.
-2. Enter a link.
-3. Define extraction rules using CSS selectors.
-4. Click "Scrape" to gather data.
-5. Save results in JSON or Excel format.
+The "ANY" tab in App empowers you to scrape content from any website using a flexible and customizable approach. Here's a detailed breakdown of what you'll find on this tab and how each feature works:
+
+![ANY Tab](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/9.jpg)
+
+**Link to Scrape:**
+- Enter the URL of the website you want to scrape in the "Link to Scrape" field.
+- App will access and extract data from the provided URL.
+
+**Proxy Configuration:**
+- "Proxy" label indicates the proxy settings section.
+- Choose the proxy type and select a country for the proxy from the dropdown options.
+- Activate proxy usage by checking the checkbox if necessary.
+- Utilizing proxies can help ensure anonymity and efficient data scraping.
+
+**Extraction Rules:**
+- In the "Extraction Rules" section, you can specify custom labels and CSS selectors for data extraction.
+- Enter a descriptive label for the data you want to extract, followed by the CSS selector that targets that specific content.
+- Click the "+" button to add additional fields for more extraction rules.
+  ![ANY Tab](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/10.jpg)
+
+**Output Format:**
+- Choose the desired output format for the scraped data by checking the "Excel" and/or "JSON" checkboxes.
+- Excel format is suitable for structured data, while JSON format is ideal for more flexible data representation.
+
+**Run Button:**
+- Once you've configured the extraction rules and chosen the output format, click the "Run" button to initiate the scraping process.
+- App will access the specified website, extract the defined content, and save it in the selected format.
+
+The "ANY" tab offers a versatile and dynamic way to scrape data from various websites, with options to configure proxies, extraction rules, and output formats. Customize your scraping process to suit your specific data needs, and let App do the rest.
