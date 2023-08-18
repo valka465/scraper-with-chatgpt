@@ -13,9 +13,6 @@ It is a powerful data scraping tool that helps you extract information from vari
   - [Shopify](#shopify)
   - [Zillow](#zillow)
   - [ANY](#any)
-- [Troubleshooting](#troubleshooting)
-- [FAQs](#faqs)
-- [Contact Support](#contact-support)
 
 ## Installation
 
@@ -167,10 +164,28 @@ Suppose you're interested in gathering information about local businesses relate
 
 ### Chat GPT with Scraper
 
-1. Access the "Chat GPT with Scraper" tab.
-2. Insert a website link.
-3. Compose a prompt and send to ChatGPT.
-4. Receive ChatGPT response with scraped content.
+The "Chat GPT with Scraper" tab within YourApp Name seamlessly integrates data scraping with natural language processing through ChatGPT. Here's a breakdown of how to harness this powerful feature:
+
+![Chat GPT with Scraper Tab](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/6.jpg)
+
+**Website Link:**
+1. Paste the URL of the website from which you want to gather textual information.
+2. This website will serve as the source for data extraction.
+
+**Prompt to ChatGPT:**
+1. Create a prompt that clearly conveys the information you're seeking from the scraped data.
+2. The prompt guides ChatGPT's response to ensure meaningful insights.
+
+**Run Generation:**
+1. Click the "Send" button to transmit the prompt along with the scraped content to ChatGPT. The response from ChatGPT will be displayed in the text field below
+2. ChatGPT will process the input and generate a response based on the prompt and the extracted data.
+
+**Return All Text From Site:**
+1. Will return all text information collected on the page without processing it in ChatGPT.
+
+**Example Use Case:**
+Imagine you have a service that you want to offer, and a list of companies that might be interested in your service. You can use this tool to gather information about the company and create a ChatGPT prompt. Based on the collected information and details about your service, ChatGPT can help you write a personalized email proposing your services.
+Or imagine you've scraped a news article from a website, and you're interested in a concise summary of the article. By pasting the article's link, composing a prompt like "Please provide a brief summary of the article," and sending it to ChatGPT, you'll receive a summarized response that captures the essence of the article.
 
 ### Shopify
 
@@ -193,20 +208,3 @@ Suppose you're interested in gathering information about local businesses relate
 3. Define extraction rules using CSS selectors.
 4. Click "Scrape" to gather data.
 5. Save results in JSON or Excel format.
-
-## Troubleshooting
-
-Refer to the Troubleshooting section within the app for solutions to common issues.
-
-## FAQs
-
-Find answers to frequently asked questions in the "FAQs" section of the app.
-
-## Contact Support
-
-For further assistance, contact our support team through the "Contact Support" option within the app.
-
-Congratulations! You are now ready to explore the full potential of app. Enjoy seamless data scraping and analysis for your various needs.
-
-[App URL]: http://yourappurl.com
-
