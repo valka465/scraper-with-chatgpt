@@ -51,7 +51,7 @@ To get your Scrape-It.Cloud API key:
 1. Visit the Scrape-It.Cloud website at [scrape-it.cloud](https://scrape-it.cloud).
 2. Sign up for an account or log in if you already have one.
 3. Navigate to the Dashboard section in your account.
-  ![API key](https://github.com/valka465/scraper-with-chatgpt/edit/main/images/1.jpg)
+![API key](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/1.jpg)
 4. Copy the API key and paste it into the "Scrape-It.Cloud API" field in the Settings of app.
 
 **ChatGPT API Key:**
@@ -62,6 +62,7 @@ To acquire your ChatGPT API key:
 1. Visit the OpenAI website at [openai.com](https://www.openai.com/).
 2. Sign up for an account or log in if you're already registered.
 3. Access the [API section](https://platform.openai.com/account/api-keys) in your account dashboard.
+![API key](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/2.jpg)
 4. Create a new API key.
 5. Copy the API key and paste it into the "ChatGPT API" field in the Settings of YourApp Name.
 
