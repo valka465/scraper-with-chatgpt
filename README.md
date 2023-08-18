@@ -76,8 +76,6 @@ With both API keys in place, app is ready to provide you with seamless data scra
 
 ### Settings
 
-**Usage: Settings**
-
 The "Settings" tab in app allows you to configure essential preferences and manage your API keys for seamless integration with external services. Here's a breakdown of what you'll find on this tab and how the buttons work:
 
 ![Settings Tab](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/3.jpg)
