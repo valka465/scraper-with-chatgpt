@@ -189,10 +189,42 @@ Or imagine you've scraped a news article from a website, and you're interested i
 
 ### Shopify
 
-1. Click on the "Shopify" tab.
-2. Enter a link.
-3. Click "Scrape" to gather data.
-4. Save results in JSON or Excel format.
+Explore the capabilities of the "Shopify" tab in YourApp Name to effortlessly scrape product and collection data from Shopify websites. 
+![Shopify Tab](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/7.jpg)
+
+**Link:**
+- Enter the URL of the Shopify page containing the products or collections you wish to scrape.
+- Ensure the URL directly points to the specific products or collections page.
+
+**Limit (From 1 to 250):**
+- Specify the maximum number of items you want to scrape (from 1 to 250).
+- This allows you to control the amount of data collected.
+
+**Page:**
+- If the data is spread across multiple pages, enter the page number to start scraping from.
+- Leave this field blank if you want to start from the first page.
+
+**Collection:**
+- If you're targeting a specific collection within the Shopify page, provide the collection name.
+- This helps narrow down the scraping process to relevant data.
+
+**Options:**
+
+- **JSON:**
+  - Check the JSON checkbox if you want to save the results in JSON format.
+
+- **Excel:**
+  - Check the Excel checkbox if you prefer to save the results in Excel format.
+
+**Get Collection Button:**
+- Click the "Get Collection" button to initiate the scraping process for collections based on your input.
+- YourApp Name will retrieve collection data according to the specified parameters.
+
+**Get Products Button:**
+- Click the "Get Products" button to begin scraping product data using the provided details.
+- YourApp Name will gather product information as per the specified parameters.
+
+The "Shopify" tab simplifies the process of data collection from Shopify websites. Whether you're conducting market research, monitoring trends, or analyzing product details, YourApp Name streamlines the data scraping process for informed decision-making.
 
 ### Zillow
 
