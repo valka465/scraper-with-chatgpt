@@ -44,7 +44,7 @@ That's it! You're ready to start using app to efficiently gather data from vario
 Before you begin using app, you'll need to set up your account and provide the necessary API keys. Here's why these API keys are important and how to obtain them:
 
 ### Scrape-It.Cloud API Key
-The Scrape-It.Cloud API key allows YourApp Name to connect with the Scrape-It.Cloud service, which enables efficient web scraping. This key is essential for retrieving data from various online sources, such as search engines, maps, and websites.
+The Scrape-It.Cloud API key allows app to connect with the Scrape-It.Cloud service, which enables efficient web scraping. This key is essential for retrieving data from various online sources, such as search engines, maps, and websites.
 
 **Obtaining Scrape-It.Cloud API Key:**
 
@@ -56,7 +56,7 @@ To get your Scrape-It.Cloud API key:
 4. Copy the API key and paste it into the "Scrape-It.Cloud API" field in the Settings of app.
 
 ### ChatGPT API Key:
-The ChatGPT API key enables YourApp Name to interact with the ChatGPT service, which adds natural language processing capabilities to the application. This key is necessary for generating human-like responses and engaging conversations.
+The ChatGPT API key enables app to interact with the ChatGPT service, which adds natural language processing capabilities to the application. This key is necessary for generating human-like responses and engaging conversations.
 
 **Obtaining ChatGPT API Key:**
 
@@ -66,9 +66,9 @@ To acquire your ChatGPT API key:
 3. Access the [API section](https://platform.openai.com/account/api-keys) in your account dashboard.
 ![API key](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/2.jpg)
 4. Create a new API key.
-5. Copy the API key and paste it into the "ChatGPT API" field in the Settings of YourApp Name.
+5. Copy the API key and paste it into the "ChatGPT API" field in the Settings of app.
 
-With both API keys in place, YourApp Name is ready to provide you with seamless data scraping and natural language interaction. Ensure your keys are kept secure and do not share them with unauthorized individuals.
+With both API keys in place, app is ready to provide you with seamless data scraping and natural language interaction. Ensure your keys are kept secure and do not share them with unauthorized individuals.
 
 *Note: API key acquisition and setup steps may vary over time, so be sure to refer to the respective websites for the most up-to-date instructions.*
 
@@ -76,9 +76,32 @@ With both API keys in place, YourApp Name is ready to provide you with seamless 
 
 ### Settings
 
-1. Access the "Settings" tab from the main menu.
-2. Enter your Scrape-It.cloud API key and ChatGPT API key.
-3. Click "Save" to store the keys, "Upload" to import keys, or "Delete" to remove keys.
+**Usage: Settings**
+
+The "Settings" tab in app allows you to configure essential preferences and manage your API keys for seamless integration with external services. Here's a breakdown of what you'll find on this tab and how the buttons work:
+
+![Settings Tab](https://github.com/valka465/scraper-with-chatgpt/blob/main/images/3.jpg)
+
+**Scrape-It.Cloud API Key:**
+- In the "Scrape-It.Cloud API" field, enter your Scrape-It.Cloud API key that you obtained during the Account Setup process.
+- This key is required for data scraping from various sources, ensuring accurate and efficient information retrieval.
+
+**ChatGPT API Key:**
+- In the "ChatGPT API" field, enter your ChatGPT API key that you acquired from OpenAI during the Account Setup.
+- This key enables app to engage in natural language conversations and generate human-like responses.
+
+**Upload:**
+- Click the "Upload" button to import previously saved API keys from database.
+- This feature is useful if you don't want to enter data manually.
+
+**Save:**
+- After entering or importing API keys, click the "Save" button to store the keys.
+
+**Delete:**
+- If needed, you can remove current API keys by clicking the "Delete" button.
+- Use this option when you want to update or change the API keys.
+
+Configuring your API keys correctly on the "Settings" tab is crucial for the smooth functioning of app. Once you've entered and saved the keys, you're ready to explore the various data scraping and interaction features the application offers.
 
 ### SERP
 
@@ -136,7 +159,7 @@ Find answers to frequently asked questions in the "FAQs" section of the app.
 
 For further assistance, contact our support team through the "Contact Support" option within the app.
 
-Congratulations! You are now ready to explore the full potential of YourApp Name. Enjoy seamless data scraping and analysis for your various needs.
+Congratulations! You are now ready to explore the full potential of app. Enjoy seamless data scraping and analysis for your various needs.
 
 [App URL]: http://yourappurl.com
 
